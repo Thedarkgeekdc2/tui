@@ -16,3 +16,4 @@ tui() {
     cd .. && rm-rf tui
   fi
 }
+tui
